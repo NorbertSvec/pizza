@@ -6,3 +6,7 @@ body{
     background-image: url(hatter.jpg);
     background-attachment: fixed;
 }
+
+.kinalat{
+    border-bottom: 2px solid blue;
+}
