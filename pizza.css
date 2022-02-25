@@ -10,3 +10,22 @@ body{
 .kinalat{
     border-bottom: 2px solid blue;
 }
+
+
+a.link{
+    text-decoration: none;
+    color: yellow;
+}
+a:hover{
+    
+    text-decoration: underline;
+    color: yellow;
+}
+
+a{
+    color: yellow;
+}
+
+a.visited{
+    color: yellow;
+}
